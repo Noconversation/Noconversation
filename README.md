@@ -34,7 +34,9 @@
 <!--END_SECTION:activity-->
 
 </details>
-
+  <summary>
+    <img src="https://raw.githubusercontent.com/Noconversation/Noconversation/master/github.svg">
+  </summary>
 </details>
 
 
