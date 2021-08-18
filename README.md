@@ -27,7 +27,9 @@
 
 </details>
   <details>
-  <summary></summary>
+  <summary>
+    
+    </summary>
   
 <!--START_SECTION:activity-->
 
@@ -40,7 +42,7 @@
 </details>
 
 
-
+ <a href="https://steamcommunity.com/id/novelpk/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 
 
 
