@@ -31,7 +31,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
-   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=blue" alt="React">
+   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   
   
   
