@@ -39,6 +39,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)
   
    
   
