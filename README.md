@@ -28,6 +28,13 @@
  <a href="https://steamcommunity.com/id/novelpk/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 
 
-
+<p align="center">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=blue" alt="React">
+  
+  
+  
+</p>
 
 [webdevplaylist]: https://youtu.be/T6kUPg_4k7w
