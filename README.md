@@ -13,27 +13,10 @@
   <details>
   <summary></summary>
   
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
-</details>
-  <details>
-  <summary></summary>
   
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-</details>
-  <details>
-  <summary>
-    
-    </summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 </details>
   <summary>
